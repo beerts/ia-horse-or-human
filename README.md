@@ -23,4 +23,24 @@ This project involves creating an AI model to classify images as either containi
 
    ```bash
    git clone https://github.com/your-username/horse-or-human.git
-   cd horse-or-human
+   cd horse-or-human]
+
+   Create a Virtual Environment
+
+2. **Create a Virtual Environment**
+  python -m venv venv
+
+3. **Activate the Virtual Environment**
+   windows:
+   venv\Scripts\activate
+
+   macOS/linux:
+   source venv/bin/activate
+
+4. **Install Dependencies**
+    pip install -r requirements.txt
+
+5. **Run the Flask Application**
+   python app.py
+
+   The application will be available at http://127.0.0.1:5000.
