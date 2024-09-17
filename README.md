@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/272de719-651e-4246-8264-c12b6d9eae5c)
+
+![image](https://github.com/user-attachments/assets/a4a59809-9751-4da6-aa9b-7c5de77f1075)
+
 # Horse or Human Classification
 
 This project involves creating an AI model to classify images as either containing a horse, a human, or neither. The model is implemented using TensorFlow, and a web application for uploading and classifying images is built using Flask. The web interface is designed with HTML and CSS to provide a user-friendly experience.
