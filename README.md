@@ -29,8 +29,8 @@ This project involves creating an AI model to classify images as either containi
    cd horse-or-human
 
 3. **Create a Virtual Environment**
-   ```bash
-  python -m venv venv
+    ```bash
+    python -m venv venv
  
 4. **Activate the Virtual Environment**
    ```bash
